@@ -1,2 +1,2 @@
 # OOP-game-in-C-using-console
-Celem projektu jest implementacja programu o charakterze symulatora wirtualnego świata, który ma strukturę dwuwymiarowej kraty o dowolnym, zadanym przez użytkownika rozmiarze NxM. W świecie tym istnieją proste formy życia o odmiennym zachowaniu, które to ze soba rywalizują.
+The aim of the project is to implement a program as a virtual world simulator, which has the structure of a two-dimensional grid of any size NxM set by the user. In this world, there are simple life forms with different behavior that compete with each other. Game in written in C++. Instruction to the rules game is included in PDF in main branch in polish.
